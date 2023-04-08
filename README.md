@@ -7,6 +7,7 @@ This repository contains solved examples of array problems, which are important 
 ![array image](https://logicmojo.com/assets/dist/new_pages/images/what-is-an-array-header.png)
 
 <br>
+
 ---
 ## Problem Solving Approach
 
