@@ -37,31 +37,44 @@ Step 3: Optimize the code to reduce the time and/or space complexity<br/>
 Each problem is organized in a separate folder, which contains a README file describing the problem, a C++ source code file, and sometimes a sample input/output file. To compile and run the code, you can use any C++ compiler of your choice, such as gcc or Visual Studio. For example, to compile and run the code for problem 1, you can use the following commands:
 
 1. Clone the repository
-$ git clone https://github.com/your_username/array-problems-python.git
+$ git clone https://github.com/shashikantkaushik/array_problems_cpp.git
 
 
 2. Navigate to the repository
-$ cd array-problems-python
+$ cd array_problems_cpp
 
 
-3. Run the Python file for the problem you want to solve
-$ python3 problem1.py
 
 
-4. Follow the input prompts in the terminal and get the output.
+3. Follow the input prompts in the terminal and get the output.
 
 Feel free to explore the code and modify it as per your needs. If you find any issues or have suggestions for improvement, please feel free to file an issue or submit a pull request. Contributions are always welcome!
 
 ---
 ## Issues and Contributions
 
-Feel free to **file a new issue** with a respective title and description on the [Array Problems in Python](https://github.com/your_username/array-problems-python/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the [Array_Problems_CPP](https://github.com/shashikantkaushik/array_problems_cpp/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
-Check out the [contributing](https://github.com/your_username/array-problems-python/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
+<br>
 
----
-## License
+## :tada: Contributing
+
+Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+<br>
+
+## :closed_book: License
+
 
 This repository is licensed under the MIT License.
+
+
+<br>
+---
+
+##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
+
+
 
