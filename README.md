@@ -83,6 +83,7 @@ This repository is licensed under the MIT License.
 
 <br>
 
+---
 
 ##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
 
