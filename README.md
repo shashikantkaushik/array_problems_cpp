@@ -6,7 +6,7 @@ This repository contains solved examples of array problems, which are important 
 
 ![array image](https://logicmojo.com/assets/dist/new_pages/images/what-is-an-array-header.png)
 
-
+<br>
 ---
 ## Problem Solving Approach
 
@@ -29,7 +29,7 @@ Step 1: Identify the time and space complexity of the code<br/>
 Step 2: Analyze the code for any redundant steps<br/>
 Step 3: Optimize the code to reduce the time and/or space complexity<br/>
 
-
+<br>
 
 ---
 ## Usage
@@ -43,6 +43,8 @@ Each problem is organized in a separate folder, which contains a README file des
 $>gh repo clone shashikantkaushik/array_problems_cpp
 ```
 
+<br>
+
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
@@ -55,6 +57,9 @@ $>git@github.com:shashikantkaushik/array_problems_cpp.git
 Feel free to explore the code and modify it as per your needs. If you find any issues or have suggestions for improvement, please feel free to file an issue or submit a pull request. Contributions are always welcome!
 
 ---
+
+<br>
+
 ## Issues and Contributions
 
 Feel free to **file a new issue** with a respective title and description on the [Array_Problems_CPP](https://github.com/shashikantkaushik/array_problems_cpp/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
