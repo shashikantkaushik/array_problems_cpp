@@ -36,17 +36,21 @@ Step 3: Optimize the code to reduce the time and/or space complexity<br/>
 
 Each problem is organized in a separate folder, which contains a README file describing the problem, a C++ source code file, and sometimes a sample input/output file. To compile and run the code, you can use any C++ compiler of your choice, such as gcc or Visual Studio. For example, to compile and run the code for problem 1, you can use the following commands:
 
-1. Clone the repository
-$ git clone https://github.com/shashikantkaushik/array_problems_cpp.git
+
+***In order to clone the project via HTTPS, run this command:***
+
+```
+$>gh repo clone shashikantkaushik/array_problems_cpp
+```
+
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
+
+```
+$>git@github.com:shashikantkaushik/array_problems_cpp.git
+```
 
 
-2. Navigate to the repository
-$ cd array_problems_cpp
-
-
-
-
-3. Follow the input prompts in the terminal and get the output.
+<br>
 
 Feel free to explore the code and modify it as per your needs. If you find any issues or have suggestions for improvement, please feel free to file an issue or submit a pull request. Contributions are always welcome!
 
