@@ -1,63 +1,67 @@
+# Array Problems in Python
 
-# Solved examples of Patterns problems using C++
-This repository contains some of the Patterns Problem which are important and give us more grip over the loops and help us in logic Building. The problems have been taken from various available sources on the internet and visitors are advised to first go through the problem statement and solve it on their own.
+An array is a collection of similar type of data elements that are referred to by a common name. Each data element in an array is assigned a number called an index, which represents its position in the array. Arrays are widely used in programming for tasks such as storing and manipulating data.
 
-![mypic](https://github.com/shashikantkaushik/pattern_Problem_cpp/blob/main/images.jpeg)
+This repository contains solved examples of array problems, which are important for developing skills in programming logic and problem-solving. The problems have been taken from various sources on the internet, and visitors are advised to first go through the problem statement and try to solve it on their own.
+
+![array image](https://cdn.programiz.com/sites/tutorial2program/files/Arrays_in_Python.jpg)
+
+
+---
+## Problem Solving Approach
+
+
+### 1. Problem Understanding
+Step 1: Understand the problem statement<br/>
+Step 2: Define the input and output of the problem<br/>
+Step 3: Identify the constraints of the problem
+
+
+### 2. Problem Solving
+Step 1: Understand the brute force solution<br/>
+Step 2: Optimize the brute force solution<br/>
+Step 3: Implement the optimized solution<br/>
+Step 4: Test the solution
+
+
+### 3. Code Optimization
+Step 1: Identify the time and space complexity of the code<br/>
+Step 2: Analyze the code for any redundant steps<br/>
+Step 3: Optimize the code to reduce the time and/or space complexity<br/>
 
 
 
 ---
-# Problem Solving Approach
-## 1. Pattern Design Problems
-Step 1: Define the pattern rows <br/>
-Step 2: Define the pattern columns <br/>
-&ensp; &ensp; &ensp; 2.1. compute the space and symbol locations <br/>
-&emsp; &emsp; &emsp; 2.1.1 Index-positioning method <br/>
-&emsp; &emsp; &emsp; 2.1.2 Dimensional formulation method <br/>
-&emsp; &emsp; &emsp; 2.1.3 Boundary analysis method <br/>
-Step 3: Reverse the row-iteration to construct inverted shapes <br/>
-Step 4: Change line after every row-iteration
+## Usage
+
+Each problem is organized in a separate folder, which contains a README file describing the problem, a C++ source code file, and sometimes a sample input/output file. To compile and run the code, you can use any C++ compiler of your choice, such as gcc or Visual Studio. For example, to compile and run the code for problem 1, you can use the following commands:
+
+1. Clone the repository
+$ git clone https://github.com/your_username/array-problems-python.git
 
 
-
-<br>
-
-## :construction_worker: Installation
+2. Navigate to the repository
+$ cd array-problems-python
 
 
-***In order to clone the project via HTTPS, run this command:***
-
-```
-$>gh repo clone shashikantkaushik/pattern_Problem_cpp
-```
-
-SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
-
-```
-$>git@github.com:shashikantkaushik/pattern_Problem_cpp.git
-```
+3. Run the Python file for the problem you want to solve
+$ python3 problem1.py
 
 
-<br>
+4. Follow the input prompts in the terminal and get the output.
+
+Feel free to explore the code and modify it as per your needs. If you find any issues or have suggestions for improvement, please feel free to file an issue or submit a pull request. Contributions are always welcome!
+
+---
+## Issues and Contributions
+
+Feel free to **file a new issue** with a respective title and description on the [Array Problems in Python](https://github.com/your_username/array-problems-python/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+
+Check out the [contributing](https://github.com/your_username/array-problems-python/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 
-## :bug: Issues
+---
+## License
 
-Feel free to **file a new issue** with a respective title and description on the [Pattern Problems](https://github.com/shashikantkaushik/pattern_Problem_cpp/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
-
-<br>
-
-## :tada: Contributing
-
-Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
-
-<br>
-
-## :closed_book: License
-Free to Code
-
-
-<br>
-
-##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
+This repository is licensed under the MIT License.
 
