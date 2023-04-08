@@ -4,11 +4,13 @@ An array is a collection of similar type of data elements that are referred to b
 
 This repository contains solved examples of array problems, which are important for developing skills in programming logic and problem-solving. The problems have been taken from various sources on the internet, and visitors are advised to first go through the problem statement and try to solve it on their own.
 
+<br>
+
 ![array image](https://logicmojo.com/assets/dist/new_pages/images/what-is-an-array-header.png)
 
 <br>
 
----
+
 ## Problem Solving Approach
 
 
@@ -83,7 +85,7 @@ This repository is licensed under the MIT License.
 
 <br>
 
----
+
 
 ##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
 
